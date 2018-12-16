@@ -6,7 +6,6 @@ import numpy as np
 import pandas as pd
 import os
 import shutil
-import SimpleITK as sitk
 from skimage.measure import regionprops
 from skimage.transform import resize
 
