@@ -1,6 +1,6 @@
 # CNNs for Segmenting Prostate Lesions from Multiparametric MRIs
 
-This project was completed for CS 230 Deep Learning at Stanford University. It aims to segment prostate lesions using multiparametric MRI exams in order to improve targeting for biopsy, which is the current diagnostic requirement. For patient privacy, none of the data or image outputs of the IPython notebooks are included in this repository.
+This project aims to segment prostate lesions using multiparametric MRI exams in order to improve targeting for biopsy, which is the current diagnostic requirement. For patient privacy, none of the data or image outputs of the IPython notebooks are included in this repository.
 
 ## Prerequisites
 
